@@ -1,17 +1,19 @@
-## Hi there 👋
+### Hi, I’m Ben 👋
+I'm a self-taught developer focused on Python, Web Dev, and Automation. I’m building tools, apps, and growing my skills one project at a time!
 
-<!--
-**bmonette/bmonette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-Here are some ideas to get you started:
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Featured Projects
+
+- [📂 File Generator 3.0](https://github.com/yourusername/file-generator) – Python GUI to generate dummy files with custom sizes.
+- [🌦️ Weather App](https://github.com/yourusername/weather-app) – Vanilla JS weather app using Open-Meteo API.
+
+📝 I also write: [benlearnscode.dev](https://benlearnscode.dev)
+🎥 Check my dev videos: [YouTube](https://youtube.com/yourchannel)
+
+📬 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@example.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmonette)
