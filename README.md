@@ -33,4 +33,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/Hosted%20on-PythonAnywhere-4B8BBE?logo=python&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-4B8BBE?logo=python&logoColor=white)
